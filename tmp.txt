@@ -1,2 +1,6 @@
 kuku
+<<<<<<< HEAD
 asdasd
+=======
+dfgdfg
+>>>>>>> origin/master
